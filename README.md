@@ -31,7 +31,8 @@ Refer to:
 ```
 nrfutil pkg generate --help
 ```
-At this time of writing, one snippet of output of above command looks like this:
+At this time of writing, one snippet of output of above command looks like in below, here you can chose the SOFTDEVICE_CODE according to 
+the softdevice version you use.
 ```
 |s112_nrf52_6.0.0|0xA7|
 |s112_nrf52_6.1.0|0xB0|
@@ -68,4 +69,4 @@ At this time of writing, one snippet of output of above command looks like this:
 |s332_nrf52_6.1.1|0xBA|
 |s340_nrf52_6.1.1|0xB9|
 ```
-here you can chose softdevice_code according to above list.
+
